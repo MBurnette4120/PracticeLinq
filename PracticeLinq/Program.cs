@@ -5,9 +5,9 @@ using System.Net.Http;
 
 namespace PracticeLinq
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             string[] carNames = new[] { "Chevrolet", "Ford", "Acura", "Nissan" };
 
